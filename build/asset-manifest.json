@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.1ec9d6ac.css",
-    "main.js": "/static/js/main.9623d2d5.js",
+    "main.js": "/static/js/main.bd790639.js",
     "static/media/Subject.png": "/static/media/Subject.1d34ae0f3e0477fceca3.png",
     "static/media/Hana_pinkshirt.jpeg": "/static/media/Hana_pinkshirt.86a85611f61a50804828.jpeg",
     "static/media/Kris_Tantinirundr_Resume.pdf": "/static/media/Kris_Tantinirundr_Resume.238cee0ddc6ffe5b9333.pdf",
@@ -13,10 +13,10 @@
     "static/media/Keeper.png": "/static/media/Keeper.bf4c6d42c8448f1e4b2e.png",
     "index.html": "/index.html",
     "main.1ec9d6ac.css.map": "/static/css/main.1ec9d6ac.css.map",
-    "main.9623d2d5.js.map": "/static/js/main.9623d2d5.js.map"
+    "main.bd790639.js.map": "/static/js/main.bd790639.js.map"
   },
   "entrypoints": [
     "static/css/main.1ec9d6ac.css",
-    "static/js/main.9623d2d5.js"
+    "static/js/main.bd790639.js"
   ]
 }
